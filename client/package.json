@@ -8,14 +8,15 @@
   "author": "2U",
   "license": "UNLICENSED",
   "devDependencies": {
-    "css-loader": "^6.2.0",
-    "http-server": "^0.11.1",
-    "style-loader": "^3.2.1"
+    
   },
   "dependencies": {
     "babel-loader": "^8.2.2",
     "code-mirror-themes": "^1.0.0",
     "html-webpack-plugin": "^5.3.2",
+    "css-loader": "^6.2.0",
+    "http-server": "^0.11.1",
+    "style-loader": "^3.2.1",
     "idb": "^6.1.2",
     "webpack": "^5.51.1",
     "webpack-cli": "^4.8.0",
